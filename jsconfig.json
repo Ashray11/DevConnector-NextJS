@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
-    }
-  }
+      "@*": ["./*"]
+    },
+    "module": "ES6",
+    "jsx": "preserve"
+  },
 }
